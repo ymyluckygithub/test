@@ -1,2 +1,2 @@
 # test
-Fist try to use githun
+Fist try to use github
